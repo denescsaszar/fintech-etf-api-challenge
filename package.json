@@ -4,6 +4,7 @@
   "description": "ETF analyzer with CAGR calculation via financial APIs - Product Manager technical challenge",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
